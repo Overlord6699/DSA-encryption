@@ -1,0 +1,9 @@
+C:\Users\Илья\source\repos\TILab4\bin\Debug\TILab4.exe
+C:\Users\Илья\source\repos\TILab4\bin\Debug\TILab4.pdb
+C:\Users\Илья\source\repos\TILab4\obj\Debug\TILab4.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\TILab4\obj\Debug\TILab4.Form1.resources
+C:\Users\Илья\source\repos\TILab4\obj\Debug\TILab4.Properties.Resources.resources
+C:\Users\Илья\source\repos\TILab4\obj\Debug\TILab4.csproj.GenerateResource.cache
+C:\Users\Илья\source\repos\TILab4\obj\Debug\TILab4.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\TILab4\obj\Debug\TILab4.exe
+C:\Users\Илья\source\repos\TILab4\obj\Debug\TILab4.pdb
